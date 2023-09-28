@@ -1,4 +1,5 @@
 const foods=["potato","banana","chili"]
-foods.push('tomato')
+
+foods.unshift(2,9)
 foods.shift()
 console.log(foods)
