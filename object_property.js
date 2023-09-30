@@ -5,5 +5,5 @@ const stor={
     cocklet:1000
 }
 
-const property=stor['cocklet']
+const property=Object.values(stor)
 console.log(property)
