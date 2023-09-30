@@ -1,8 +1,8 @@
-const student={
-    name:"sakib",
-    id:22,
-    skin:"drak"
+const student = {
+    name: "sakib",
+    id: 22,
+    skin: "drak"
 }
 console.log(student.name)
-student.name='masud'
+student.name = 'masud'
 console.log(student)
